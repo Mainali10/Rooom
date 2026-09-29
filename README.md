@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mainali10/Rooom/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Mainali10/Rooom/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/Mainali10/Rooom/tree/master/0014-longest-common-prefix) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mainali10/Rooom/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Hash Table
 |  |
@@ -56,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mainali10/Rooom/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Mainali10/Rooom/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Mainali10/Rooom/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
